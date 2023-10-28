@@ -1,0 +1,30 @@
+{
+  "config": {
+    "hw_platform": ["IDP"],
+    "soc_id": ["518"]
+  },
+  "sar_algo": {
+    "owner": "sar_algo",
+    ".sar_config":{
+      "owner": "sar_algo",
+        "use_step": {
+          "ver": "0", "type": "flt", "data": "1"
+        },
+        "step_limit": {
+          "ver": "0", "type": "flt", "data": "100"
+        },
+        "threhold_cs0_min": {
+          "ver": "1", "type": "flt", "data": "182"
+        },
+        "threhold_cs0_max": {
+          "ver": "1", "type": "flt", "data": "242"
+        },
+        "threhold_cs3_min": {
+          "ver": "1", "type": "flt", "data": "278"
+        },
+        "threhold_cs3_max": {
+          "ver": "1", "type": "flt", "data": "338"
+        }
+    }
+  }
+}
