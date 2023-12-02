@@ -17,11 +17,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/topaz/proprietary/odm/etc/camera/camerabooster.json:$(TARGET_COPY_OUT_ODM)/etc/camera/camerabooster.json \
     vendor/xiaomi/topaz/proprietary/odm/etc/init/vendor.xiaomi.hardware.mlipay@1.1-service.rc:$(TARGET_COPY_OUT_ODM)/etc/init/vendor.xiaomi.hardware.mlipay@1.1-service.rc \
     vendor/xiaomi/topaz/proprietary/odm/etc/init/vendor.xiaomi.hardware.mtdservice@1.3-service.rc:$(TARGET_COPY_OUT_ODM)/etc/init/vendor.xiaomi.hardware.mtdservice@1.3-service.rc \
-    vendor/xiaomi/topaz/proprietary/odm/firmware/Conf_MultipleTest_ft3519t.ini:$(TARGET_COPY_OUT_ODM)/firmware/Conf_MultipleTest_ft3519t.ini \
-    vendor/xiaomi/topaz/proprietary/odm/firmware/focaltech_ts_fw_samsung_ft3519t.bin:$(TARGET_COPY_OUT_ODM)/firmware/focaltech_ts_fw_samsung_ft3519t.bin \
-    vendor/xiaomi/topaz/proprietary/odm/firmware/goodix_cfg_group.bin:$(TARGET_COPY_OUT_ODM)/firmware/goodix_cfg_group.bin \
-    vendor/xiaomi/topaz/proprietary/odm/firmware/goodix_firmware.bin:$(TARGET_COPY_OUT_ODM)/firmware/goodix_firmware.bin \
-    vendor/xiaomi/topaz/proprietary/odm/firmware/gtx8_limits_M395.csv:$(TARGET_COPY_OUT_ODM)/firmware/gtx8_limits_M395.csv \
+    vendor/xiaomi/topaz/proprietary/vendor/firmware/Conf_MultipleTest_ft3519t.ini:$(TARGET_COPY_OUT_VENDOR)/firmware/Conf_MultipleTest_ft3519t.ini \
+    vendor/xiaomi/topaz/proprietary/vendor/firmware/focaltech_ts_fw_samsung_ft3519t.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ts_fw_samsung_ft3519t.bin \
+    vendor/xiaomi/topaz/proprietary/vendor/firmware/goodix_cfg_group.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_cfg_group.bin \
+    vendor/xiaomi/topaz/proprietary/vendor/firmware/goodix_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_firmware.bin \
+    vendor/xiaomi/topaz/proprietary/vendor/firmware/gtx8_limits_M395.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/gtx8_limits_M395.csv \
     vendor/xiaomi/topaz/proprietary/odm/lib64/libmlipay.so:$(TARGET_COPY_OUT_ODM)/lib64/libmlipay.so \
     vendor/xiaomi/topaz/proprietary/odm/lib64/libmlipay@1.1.so:$(TARGET_COPY_OUT_ODM)/lib64/libmlipay@1.1.so \
     vendor/xiaomi/topaz/proprietary/odm/lib64/libmt@1.3.so:$(TARGET_COPY_OUT_ODM)/lib64/libmt@1.3.so \
