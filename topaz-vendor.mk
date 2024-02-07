@@ -252,7 +252,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/topaz/proprietary/vendor/etc/audio_policy_engine_default_stream_volumes.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy_engine_default_stream_volumes.xml \
     vendor/xiaomi/topaz/proprietary/vendor/etc/audio_policy_engine_product_strategies.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy_engine_product_strategies.xml \
     vendor/xiaomi/topaz/proprietary/vendor/etc/audio_policy_engine_stream_volumes.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy_engine_stream_volumes.xml \
-    vendor/xiaomi/topaz/proprietary/vendor/etc/backend_conf.xml:$(TARGET_COPY_OUT_VENDOR)/etc/backend_conf.xml \
     vendor/xiaomi/topaz/proprietary/vendor/etc/batching.conf:$(TARGET_COPY_OUT_VENDOR)/etc/batching.conf \
     vendor/xiaomi/topaz/proprietary/vendor/etc/cacert_location.pem:$(TARGET_COPY_OUT_VENDOR)/etc/cacert_location.pem \
     vendor/xiaomi/topaz/proprietary/vendor/etc/camera/104_Meet.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/104_Meet.png \
@@ -464,9 +463,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/topaz/proprietary/vendor/etc/mdss_dsi_panel_m7_38_0c_0b_fhdp_video_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mdss_dsi_panel_m7_38_0c_0b_fhdp_video_mi.xml \
     vendor/xiaomi/topaz/proprietary/vendor/etc/media_khaje_v0/video_system_specs.json:$(TARGET_COPY_OUT_VENDOR)/etc/media_khaje_v0/video_system_specs.json \
     vendor/xiaomi/topaz/proprietary/vendor/etc/microphone_characteristics.xml:$(TARGET_COPY_OUT_VENDOR)/etc/microphone_characteristics.xml \
-    vendor/xiaomi/topaz/proprietary/vendor/etc/mixer_paths_bengal_idp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_bengal_idp.xml \
-    vendor/xiaomi/topaz/proprietary/vendor/etc/mixer_paths_bengal_idp_india.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_bengal_idp_india.xml \
-    vendor/xiaomi/topaz/proprietary/vendor/etc/mixer_paths_bengal_qrd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_bengal_qrd.xml \
     vendor/xiaomi/topaz/proprietary/vendor/etc/mixer_paths_scubaidp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_scubaidp.xml \
     vendor/xiaomi/topaz/proprietary/vendor/etc/mixer_paths_scubaqrd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_scubaqrd.xml \
     vendor/xiaomi/topaz/proprietary/vendor/etc/perf/avcsysnodesconfigs.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/avcsysnodesconfigs.xml \
@@ -502,8 +498,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/topaz/proprietary/vendor/etc/qcril_database/upgrade/other/6_version_change_property_table_qcrilnr.sql:$(TARGET_COPY_OUT_VENDOR)/etc/qcril_database/upgrade/other/6_version_change_property_table_qcrilnr.sql \
     vendor/xiaomi/topaz/proprietary/vendor/etc/qdcm_calib_data_m7_38_0c_0a_video_mode_fhdp_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_m7_38_0c_0a_video_mode_fhdp_dsi_panel.xml \
     vendor/xiaomi/topaz/proprietary/vendor/etc/qdcm_calib_data_m7_38_0c_0b_video_mode_fhdp_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_m7_38_0c_0b_video_mode_fhdp_dsi_panel.xml \
-    vendor/xiaomi/topaz/proprietary/vendor/etc/resourcemanager_bengal_idp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/resourcemanager_bengal_idp.xml \
-    vendor/xiaomi/topaz/proprietary/vendor/etc/resourcemanager_bengal_qrd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/resourcemanager_bengal_qrd.xml \
     vendor/xiaomi/topaz/proprietary/vendor/etc/resourcemanager_scubaidp.xml:$(TARGET_COPY_OUT_VENDOR)/etc/resourcemanager_scubaidp.xml \
     vendor/xiaomi/topaz/proprietary/vendor/etc/resourcemanager_scubaqrd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/resourcemanager_scubaqrd.xml \
     vendor/xiaomi/topaz/proprietary/vendor/etc/sap.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sap.conf \
@@ -622,7 +616,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/topaz/proprietary/vendor/etc/thermald-devices.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermald-devices.conf \
     vendor/xiaomi/topaz/proprietary/vendor/etc/tzlog.dict:$(TARGET_COPY_OUT_VENDOR)/etc/tzlog.dict \
     vendor/xiaomi/topaz/proprietary/vendor/etc/usb_compositions.conf:$(TARGET_COPY_OUT_VENDOR)/etc/usb_compositions.conf \
-    vendor/xiaomi/topaz/proprietary/vendor/etc/usecaseKvManager.xml:$(TARGET_COPY_OUT_VENDOR)/etc/usecaseKvManager.xml \
     vendor/xiaomi/topaz/proprietary/vendor/etc/wfdconfig.xml:$(TARGET_COPY_OUT_VENDOR)/etc/wfdconfig.xml \
     vendor/xiaomi/topaz/proprietary/vendor/etc/xtra_root_cert.pem:$(TARGET_COPY_OUT_VENDOR)/etc/xtra_root_cert.pem \
     vendor/xiaomi/topaz/proprietary/vendor/etc/xtwifi.conf:$(TARGET_COPY_OUT_VENDOR)/etc/xtwifi.conf \
