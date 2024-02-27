@@ -258,6 +258,17 @@ android_app_import {
 }
 
 android_app_import {
+	name: "BluetoothDsDaService",
+	owner: "xiaomi",
+	apk: "proprietary/system_ext/app/BluetoothDsDaService/BluetoothDsDaService.apk",
+	certificate: "platform",
+	dex_preopt: {
+		enabled: false,
+	},
+	system_ext_specific: true,
+}
+
+android_app_import {
 	name: "DeviceInfo",
 	owner: "xiaomi",
 	apk: "proprietary/system_ext/app/DeviceInfo/DeviceInfo.apk",
